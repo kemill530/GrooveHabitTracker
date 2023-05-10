@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrooveHabitTracker.Server", "GrooveHabitTracker\Server\GrooveHabitTracker.Server.csproj", "{088EE647-4856-47D4-BD90-155BE0226A80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrooveHabitTracker.Client", "GrooveHabitTracker\Client\GrooveHabitTracker.Client.csproj", "{6B2C4E2B-0E44-4DCF-8F5C-22B67CFF6232}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrooveHabitTracker.Shared", "GrooveHabitTracker\Shared\GrooveHabitTracker.Shared.csproj", "{D248B15D-113A-4336-AD28-3DFFAD4EE672}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{088EE647-4856-47D4-BD90-155BE0226A80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{088EE647-4856-47D4-BD90-155BE0226A80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{088EE647-4856-47D4-BD90-155BE0226A80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{088EE647-4856-47D4-BD90-155BE0226A80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B2C4E2B-0E44-4DCF-8F5C-22B67CFF6232}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B2C4E2B-0E44-4DCF-8F5C-22B67CFF6232}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B2C4E2B-0E44-4DCF-8F5C-22B67CFF6232}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B2C4E2B-0E44-4DCF-8F5C-22B67CFF6232}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D248B15D-113A-4336-AD28-3DFFAD4EE672}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D248B15D-113A-4336-AD28-3DFFAD4EE672}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D248B15D-113A-4336-AD28-3DFFAD4EE672}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D248B15D-113A-4336-AD28-3DFFAD4EE672}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68AF288A-CEF7-40C3-B30F-6DFBAB23FBB6}
+	EndGlobalSection
+EndGlobal
